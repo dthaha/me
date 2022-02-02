@@ -4,9 +4,9 @@ date = "2022-02-02"
 title = "Hello World!"
 description = "Hello!"
 tags = [
-    "hello"
-    "intro"
-    "hugo"
+    "hello",
+    "intro",
+    "hugo",
 ]
 +++
 
